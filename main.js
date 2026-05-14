@@ -3,3 +3,7 @@ var adjective2 = prompt('Provide another adjective.');
 var adverb = prompt('Provide an adverb.');
 
 // Write your code below
+var madLib = "You are a " + adverb + " " + adjective1 + " " + adjective2 + " person!";
+
+alert(madLib); 
+console.log(madLib);
